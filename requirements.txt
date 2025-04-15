@@ -1,0 +1,14 @@
+# Basic Python ML Libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# For notebooks
+jupyter
+ipykernel
+
+# For deep learning
+tensorflow
+torch
