@@ -1,0 +1,26 @@
+id,destination,country,travel_year,travel_buddy,mode_of_transport,rating
+1,New York,Japan,2021,Solo,Train,6.3
+2,Seoul,France,2019,Friends,Train,9.9
+3,Kyoto,Peru,2015,Partner,Car,9.1
+4,Vienna,Iceland,2022,Solo,Train,6.8
+5,Barcelona,South Africa,2021,Partner,Train,6.0
+6,Queenstown,Canada,2018,Friends,Campervan,9.3
+7,Santorini,Italy,2010,Friends,Car,8.8
+8,Paris,Turkey,2020,Solo,Campervan,8.9
+9,Cairo,USA,2020,Friends,Campervan,9.1
+10,Banff,New Zealand,2019,Group Tour,Car,6.3
+11,Machu Picchu,Portugal,2021,Friends,Flight,7.4
+12,Petra,Spain,2021,Partner,Campervan,6.5
+13,Dubai,Jordan,2023,Partner,Bike,9.5
+14,Reykjavik,Greece,2023,Partner,Bike,8.5
+15,Cape Town,Indonesia,2023,Partner,Train,7.3
+16,Prague,UAE,2012,Group Tour,Bike,6.3
+17,Amsterdam,South Korea,2021,Family,Train,7.2
+18,London,Netherlands,2016,Solo,Flight,7.3
+19,Sydney,Australia,2013,Partner,Car,8.9
+20,Buenos Aires,Peru,2018,Friends,Car,8.6
+21,Istanbul,Czech Republic,2012,Partner,Car,9.5
+22,Lisbon,UK,2014,Friends,Bike,7.9
+23,Bali,Egypt,2012,Friends,Flight,6.5
+24,Cusco,Austria,2016,Partner,Bike,8.9
+25,Rome,Argentina,2014,Group Tour,Bike,9.0
